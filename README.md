@@ -1,1 +1,1 @@
-# calypso
+# calypso calculator
